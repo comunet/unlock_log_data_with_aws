@@ -4,7 +4,7 @@
 This project includes sample code for using native AWS Services to capture and report on Application Log data captured in Virtual Machines (EC2) or containers in AWS.
 
 These samples can be followed in-line with blog post located here:
-[]
+[https://www.linkedin.com/pulse/liberate-your-log-data-from-storage-hell-damien-coyle]
 
 - [Unlocking your Log Data with AWS](#unlocking-your-log-data-with-aws)
   - [1 Configuring CloudWatch Agent on to collect log data from Application Server](#1-configuring-cloudwatch-agent-on-to-collect-log-data-from-application-server)
